@@ -1,0 +1,9 @@
+@charset "utf-8";
+.center {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%; /* 可以根據需要調整高度 */
+}
+
